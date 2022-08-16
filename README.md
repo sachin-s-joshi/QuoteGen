@@ -1,2 +1,2 @@
 # QuoteGen
-Created with CodeSandbox
+A React Project for generating Random Quotes
