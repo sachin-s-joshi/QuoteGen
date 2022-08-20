@@ -35,8 +35,8 @@ function Quote() {
   return (
     <div id="wrapper">
       <div id="quote-box">
-        <div id="text">{quotes.text}</div>
-        <div id="author">- {quotes.author}</div>
+        <div id="text" style={{color:bgColor}}>{quotes.text}</div>
+        <div id="author" style={{color:bgColor}}>- {quotes.author}</div>
         <a
           id="tweet-quote"
           rel="noreferrer"
